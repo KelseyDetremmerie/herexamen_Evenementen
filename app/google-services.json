@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "715071982760",
+    "firebase_url": "https://herexamen-kelsey-detremmerie.firebaseio.com",
+    "project_id": "herexamen-kelsey-detremmerie",
+    "storage_bucket": "herexamen-kelsey-detremmerie.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:715071982760:android:737b5ce3af3ba601",
+        "android_client_info": {
+          "package_name": "com.example.herexamenEvenementenKelseyDetremmerie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "715071982760-cn5q0v0c99dvc9chercg28aegm1f9ad8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.herexamenEvenementenKelseyDetremmerie",
+            "certificate_hash": "b1adaea69f586d67d2a1746e9519f8c7fbbdc7b5"
+          }
+        },
+        {
+          "client_id": "715071982760-115473ldr2hbth0hk152pp6le640vlbf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGMsjEdOnQX2-DTOniTjpl_8CsT-BXjgc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "715071982760-115473ldr2hbth0hk152pp6le640vlbf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:715071982760:android:1ec5cec34c64b6aa",
+        "android_client_info": {
+          "package_name": "com.example.herexamen_evenementen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "715071982760-nt8f9emivqqldbm3f2o168nbgnnkncvb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.herexamen_evenementen",
+            "certificate_hash": "b1adaea69f586d67d2a1746e9519f8c7fbbdc7b5"
+          }
+        },
+        {
+          "client_id": "715071982760-115473ldr2hbth0hk152pp6le640vlbf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGMsjEdOnQX2-DTOniTjpl_8CsT-BXjgc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "715071982760-115473ldr2hbth0hk152pp6le640vlbf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

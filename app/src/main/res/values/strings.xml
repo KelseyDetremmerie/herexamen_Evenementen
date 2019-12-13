@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Herexamen_Evenementen</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+    <string name="Evenementen">Evenementen</string>
+    <string name="Favorieten">Favorieten</string>
+    <string name="Informatie">Informatie</string>
+    <string name="Herexamen">Herexamen</string>
+    <string name="KelseyDetremmerie">Kelsey Detremmerie</string>
+    <string name="favorites_fragment">Favorieten Fragment</string>
+    <string name="title_activity_details">DetailsActivity</string>
+    <string name="Details">Details</string>
+    <string name="tips_for_trips">Tips for trips</string>
+</resources>
